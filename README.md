@@ -8,3 +8,5 @@ Connect with me as 🔭 I’m currently looking for new opportunities .
 How to create README in your profile: A GitHub Feature 
 
 https://kalyani14091990.blogspot.com/2021/09/how-to-create-readme-in-your-profile.html
+
+Algorithms: https://www.blogger.com/blog/posts/858744366101750007
